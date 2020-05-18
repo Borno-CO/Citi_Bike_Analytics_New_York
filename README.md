@@ -3,6 +3,11 @@
 ## Unit 20: Tableau Challenge
 ## Student: David Born
 
+
+# To Access the Tableau Visualizations
+The analysis and storybook of my findings are provided in Tableau Public: https://public.tableau.com/profile/david.born6631
+
+
 Notes on methodology followed by homework assignment specifics.
 
 # Notes on Methodology
